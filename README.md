@@ -1,37 +1,24 @@
-# To_List_in_Hefei
+# ToDo_List_in_Hefei
 
-#### 介绍
-To_List_in_Hefei
+#### TO-DOs
 
-#### 软件架构
-软件架构说明
+1. basic github action work-flow construction
+2. gitee -> github code sync 
+3. papers in CMV pneumonia && its repository remodeling(in github action) && fix shiny application 
+4. papers in reactomic && beamer uptodate && data analysis(find an example) && wiki uptodate
+5. papers in pathGNN && its repository remodeling in github action && essay writing
+6. review revision in pathGNN
+7. works in other reviews and books writing
+8.  TCGA data download && preprocessing in github action{prepare data for liver and kidney} && essay writing 
+9. methyl array data analysis in MDS && lymphoma: basic work-flow ?
+10. shiny application in survival analysis with full functions also with github action
+11. post-chemotherapy bone marrow suppression clinical data analysis :data collection
+12. HBSIG activities including :Bioconductor work-flow translation, code implementation,document writing
+13. docker compile,construction and optimized
+14. introduction to tidy-mass
 
+#### Basic work-flow principle
 
-#### 安装教程
+1. 代码commit到gitee,设置同步到github启动github action自动化
+2. 文本在overleaf上，同步到最新list上面去。
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
